@@ -118,6 +118,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 - [pi-foreground-chains](https://github.com/nicobailon/pi-foreground-chains) — Multi-agent workflow orchestration with file-based handoff.
 - [pi-intercom](https://github.com/nicobailon/pi-intercom) — Inter-session communication.
 - [pi-messenger](https://github.com/nicobailon/pi-messenger) — Multi-agent communication between pi instances.
+- [pi-muse-bridge](https://github.com/ferdousbhai/pi-muse-bridge) — Run Muse Spark as a pi subagent through Muse Code using an existing Meta login.
 - [pi-side-chat](https://github.com/nicobailon/pi-side-chat) — Fork the conversation into an independent side chat while the main agent keeps working.
 - [pi-subagents](https://github.com/nicobailon/pi-subagents) — Async subagent delegation with truncation, artifacts, and session sharing.
 - [roach-pi](https://github.com/tmdgusya/roach-pi) — Strict engineering discipline and multi-agent orchestration.
