@@ -207,6 +207,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 - [pi-share-hf](https://github.com/badlogic/pi-share-hf) — Collect, review, and upload redacted session files to a Hugging Face dataset.
 - [pi-sub](https://github.com/marckrenn/pi-sub) — Usage-tracking extensions with a shared core and footer widget.
 
+- [pisesh](https://github.com/Blue-B/pisesh) — Bookmark, star, rename, and resume pi sessions from a keyboard-driven TUI; switches sessions in-process via `ctx.switchSession()`.
 ## Review & QA
 
 - [pi-diff-review](https://github.com/badlogic/pi-diff-review) — Diff review from the author.
