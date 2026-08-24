@@ -96,6 +96,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 - [agent-stuff](https://github.com/mitsuhiko/agent-stuff) — Armin Ronacher's skills and extensions: answer, review, loop, todos, and more.
 - [agents (michalvavra)](https://github.com/michalvavra/agents) — Includes filter-output (redact secrets from tool results) and bash command security.
 - [dot314](https://github.com/w-winter/dot314) — Pi extensions. The name alone earns the entry.
+- [pi-custom-packages](https://github.com/Blue-B/pi-custom-packages) — Session guards, outbound image capping, and Windows/WSL screen capture, input, and recording.
 - [pi-extensions (aliou)](https://github.com/aliou/pi-extensions) — Debugging and utility extensions: debug, meta, processes.
 - [pi-extensions (kcosr)](https://github.com/kcosr/pi-extensions) — Includes toolwatch, a tool-call audit and approval system with SQLite logging.
 - [pi-extensions (MattDevy)](https://github.com/MattDevy/pi-extensions) — Includes pi-continuous-learning for a self-improving setup.
