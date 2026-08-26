@@ -114,7 +114,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 
 ## Subagents & Multi-Agent
 
-- [PiSwarm](https://github.com/lsj5031/PiSwarm) — Parallel GitHub issue/PR processing with git worktrees.
+- [IssueSwarmSkill](https://github.com/lsj5031/IssueSwarmSkill) — Spawns parallel coding agents across GitHub issues via git worktrees (successor to the deleted PiSwarm).
 - [pi-boomerang](https://github.com/nicobailon/pi-boomerang) — Token-efficient autonomous task execution with context collapse.
 - [pi-foreground-chains](https://github.com/nicobailon/pi-foreground-chains) — Multi-agent workflow orchestration with file-based handoff.
 - [pi-intercom](https://github.com/nicobailon/pi-intercom) — Inter-session communication.
