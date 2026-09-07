@@ -249,6 +249,7 @@ Cross-agent tools with explicit pi support.
 - [mco](https://github.com/mco-org/mco) — Run selected agents and models in parallel, compare raw answers.
 - [memorix](https://github.com/AVIDS2/memorix) — Cross-agent memory layer via MCP.
 - [opencode-power-pack](https://github.com/waybarrios/opencode-power-pack) — 45 rigorous skills for Codex, OpenCode, and pi.
+- [yylo](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents: Pi and Codex subagents, a dedicated branch/worktree per task, and typed task, validation, merge, and release-readiness boundaries.
 
 ## Lore
 
