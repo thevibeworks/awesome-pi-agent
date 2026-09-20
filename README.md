@@ -72,6 +72,7 @@ The official project and its immediate family.
 - [harness-remote](https://github.com/giuliastro/harness-remote) — Control coding-agent harnesses from phone or desktop (OMP, pi, OpenCode, Claude Code).
 - [oh-my-singularity](https://github.com/DeprecatedLuke/oh-my-singularity) — Task-based orchestration TUI for highly parallel agentic development.
 - [omp-deck](https://github.com/mcbarlowe/omp-deck) — Cockpit web UI: multi-session chat, kanban, cron routines, Telegram bridge.
+- [omp-desktop](https://github.com/Omnividente/omp-desktop) — Independent Windows/Linux workspace for oh-my-pi with project and session management, provider controls, and native PTY terminals.
 - [t4-code](https://github.com/LycaonLLC/t4-code) — Open-source desktop app for oh-my-pi.
 
 ## Frontends
