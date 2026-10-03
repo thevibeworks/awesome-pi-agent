@@ -142,6 +142,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 
 - [pi-annotate](https://github.com/nicobailon/pi-annotate) — Visual feedback from browser to agent: click elements, add comments, fix code.
 - [pi-canvas](https://github.com/jyaunches/pi-canvas) — Interactive TUI canvases (calendar, document, flights) rendered inline.
+- [pi-code-render](https://github.com/chengyayu/pi-code-render) — Renders fenced code blocks as theme-colored cards with a one-click `[COPY]` button and a click-to-toggle raw-text view.
 - [pi-design-deck](https://github.com/nicobailon/pi-design-deck) — Present multi-slide design options with high-fidelity previews.
 - [pi-interview-tool](https://github.com/nicobailon/pi-interview-tool) — Interactive forms with keyboard navigation, themes, and image attachments.
 - [pi-powerline-footer](https://github.com/nicobailon/pi-powerline-footer) — Powerline status bar with git integration and token intelligence.
