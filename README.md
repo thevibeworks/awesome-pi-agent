@@ -71,7 +71,9 @@ The official project and its immediate family.
 
 - [harness-remote](https://github.com/giuliastro/harness-remote) — Control coding-agent harnesses from phone or desktop (OMP, pi, OpenCode, Claude Code).
 - [oh-my-singularity](https://github.com/DeprecatedLuke/oh-my-singularity) — Task-based orchestration TUI for highly parallel agentic development.
+- [omp-cache-control](https://github.com/ubranch/omp-cache-control) — Prompt-cache visibility and guarded, paid idle refreshes for Oh My Pi.
 - [omp-deck](https://github.com/mcbarlowe/omp-deck) — Cockpit web UI: multi-session chat, kanban, cron routines, Telegram bridge.
+- [omp-you-should-know](https://github.com/ubranch/omp-you-should-know) — Contextual heads-up cards from a side model in the Oh My Pi terminal.
 - [t4-code](https://github.com/LycaonLLC/t4-code) — Open-source desktop app for oh-my-pi.
 
 ## Frontends
