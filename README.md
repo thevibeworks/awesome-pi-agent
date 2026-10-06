@@ -62,6 +62,7 @@ The official project and its immediate family.
 ## Distros, Forks & Things Built on π
 
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) — The heavyweight distro: hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more.
+- [Orbi](https://github.com/orbi-build/orbi) — Runs pi on GitHub issues labeled `ai-ready`: it writes the code, opens a PR, has an independent review session check it against the issue's acceptance criteria, merges only the reviewed head, and tags a release.
 - [pi-rs](https://github.com/jshachm/pi-rs) — Lightweight Rust reimplementation of pi.
 - [pix-mono](https://github.com/xynogen/pix-mono) — Pix, a distro of the pi coding agent.
 - [rho](https://github.com/mikeyobrien/rho) — An always-on personal agent built on pi: remembers across sessions and checks in on its own.
