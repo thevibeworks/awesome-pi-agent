@@ -123,6 +123,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 - [pi-subagents](https://github.com/nicobailon/pi-subagents) — Async subagent delegation with truncation, artifacts, and session sharing.
 - [roach-pi](https://github.com/tmdgusya/roach-pi) — Strict engineering discipline and multi-agent orchestration.
 - [task-factory](https://github.com/patleeman/task-factory) — Queue-first work orchestrator with planning, execution skills, and a web UI.
+- [worksplice](https://github.com/whutlichao/worksplice) — Local workspace for persistent pi sessions, with shared channels, freshness-checked writes, and independent task review.
 
 ## Context, Memory & Compaction
 
