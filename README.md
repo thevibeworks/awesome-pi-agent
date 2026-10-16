@@ -245,6 +245,7 @@ Cross-agent tools with explicit pi support.
 - [codemap](https://github.com/kcosr/codemap) — Compact, token-aware codebase maps for LLMs and coding agents.
 - [gob](https://github.com/juanibiapina/gob) — Process manager for AI agents with background jobs and a TUI.
 - [hcom](https://github.com/aannoo/hcom) — Let agents message, watch, and spawn each other across terminals.
+- [JustSessions](https://github.com/yangzichao/JustSessions) — Native Mac workspace to browse, search, and resume pi, Claude Code, Codex, and other coding-agent sessions in their original CLIs.
 - [magic-context](https://github.com/cortexkit/magic-context) — Self-managing memory; "the hippocampus for coding agents."
 - [mco](https://github.com/mco-org/mco) — Run selected agents and models in parallel, compare raw answers.
 - [memorix](https://github.com/AVIDS2/memorix) — Cross-agent memory layer via MCP.
