@@ -86,15 +86,15 @@ Web, desktop, mobile, and editor faces for the same agent.
 
 - [agent-desktop](https://github.com/BaLaurent/agent-desktop) — Desktop application with native UI.
 - [pi-chamber](https://github.com/WillianQ/pi-chamber) — Remote browser control room: concurrent sessions, files, and real terminals; another device takes over the live session with replay.
-- [pi-coding-agent (Emacs)](https://github.com/dnouri/pi-coding-agent) — Emacs frontend, because of course there's an Emacs frontend.
 - [pi-desktop](https://github.com/gustavonline/pi-desktop) — Native desktop shell (Tauri + Lit), extension-first and multi-session aware.
 - [pi-gui](https://github.com/minghinmatthewlam/pi-gui) — Electron GUI app for the pi runtime.
-- [pi-gui (VVander)](https://github.com/VVander/pi-gui) — GUI extension providing a visual interface.
 - [pi-mobile](https://github.com/ayagmar/pi-mobile) — Android client with session management over Tailscale.
+- [pi-remote-web-ui](https://github.com/VVander/pi-remote-web-ui) — Minimal web GUI bound to localhost, reached over an SSH tunnel.
 - [pi-vscode](https://github.com/pithings/pi-vscode) — Minimal VS Code extension.
 - [pi-web](https://github.com/agegr/pi-web) — Web UI: session browsing, real-time chat, skill management, file preview.
 - [pi-web (jmfederico)](https://github.com/jmfederico/pi-web) — Web UI that keeps sessions alive in real workspaces.
 - [piclaw](https://github.com/rcarmo/piclaw) — "pi coding agent in a technicolor web trenchcoat."
+- [pilish](https://github.com/dnouri/pilish) — Emacs frontend, because of course there's an Emacs frontend.
 
 ## Extension Packs
 
@@ -104,7 +104,6 @@ Multi-extension collections; many of the best single ideas live inside these.
 - [agents (michalvavra)](https://github.com/michalvavra/agents) — Includes filter-output (redact secrets from tool results) and bash command security.
 - [dot314](https://github.com/w-winter/dot314) — Pi extensions. The name alone earns the entry.
 - [pi-custom-packages](https://github.com/Blue-B/pi-custom-packages) — Session guards, outbound image capping, and Windows/WSL screen capture, input, and recording.
-- [pi-extensions (aliou)](https://github.com/aliou/pi-extensions) — Debugging and utility extensions: debug, meta, processes.
 - [pi-extensions (kcosr)](https://github.com/kcosr/pi-extensions) — Includes toolwatch, a tool-call audit and approval system with SQLite logging.
 - [pi-extensions (MattDevy)](https://github.com/MattDevy/pi-extensions) — Includes pi-continuous-learning for a self-improving setup.
 - [pi-extensions (narumiruna)](https://github.com/narumiruna/pi-extensions) — Automation, planning, language tooling, browser control, git workflows.
@@ -112,6 +111,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 - [pi-extensions (owainlewis)](https://github.com/owainlewis/pi-extensions) — Context-isolated workflow automation.
 - [pi-extensions (richardgill)](https://github.com/richardgill/pi-extensions) — Files browser, skill-task routing, isolated task-tool subprocesses.
 - [pi-extensions (tmustier)](https://github.com/tmustier/pi-extensions) — Delightful set: ralph-wiggum long-running loops, usage dashboard, arcade.
+- [pi-harness (aliou)](https://github.com/aliou/pi-harness) — Personal multi-model harness: custom tools, hooks, commands, and subagents.
 - [pi-hooks](https://github.com/prateekmedia/pi-hooks) — Minimal reference extensions: git checkpoint, LSP diagnostics, layered permissions.
 - [pi-mono-extensions](https://github.com/emanuelcasco/pi-mono-extensions) — Collection of pi-mono extensions.
 - [pi-packages](https://github.com/ben-vargas/pi-packages) — Extensions, skills, prompt templates, and themes in one repo.
@@ -121,7 +121,6 @@ Multi-extension collections; many of the best single ideas live inside these.
 
 ## Subagents & Multi-Agent
 
-- [IssueSwarmSkill](https://github.com/lsj5031/IssueSwarmSkill) — Spawns parallel coding agents across GitHub issues via git worktrees (successor to the deleted PiSwarm).
 - [pi-boomerang](https://github.com/nicobailon/pi-boomerang) — Token-efficient autonomous task execution with context collapse.
 - [pi-foreground-chains](https://github.com/nicobailon/pi-foreground-chains) — Multi-agent workflow orchestration with file-based handoff.
 - [pi-intercom](https://github.com/nicobailon/pi-intercom) — Inter-session communication.
@@ -204,16 +203,15 @@ Multi-extension collections; many of the best single ideas live inside these.
 ## Sandboxes & Isolation
 
 - [gondolin](https://github.com/earendil-works/gondolin) — Linux micro-VM sandbox with a TypeScript control plane, from the pi lab itself.
-- [gondolin-nix](https://github.com/luizribeiro/gondolin-nix) — Gondolin configured with Nix for reproducible environments.
 - [nono](https://github.com/nolabs-ai/nono) — Kernel-enforced capability sandbox (Landlock on Linux, Seatbelt on macOS).
 - [pi-coding-agent-container](https://github.com/gni/pi-coding-agent-container) — Docker Compose setup.
 - [pi-less-yolo](https://github.com/cjermain/pi-less-yolo) — "Slightly less YOLO": pi in a Docker container sandbox.
 
 ## Sessions, Observability & Cost
 
+- [agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard) — Web dashboard for API costs across pi, oh-my-pi, Claude Code, Codex, and more.
 - [claude-tap](https://github.com/liaohch3/claude-tap) — Intercept and inspect agent API traffic in a local trace viewer (pi supported).
 - [CodexBar](https://github.com/steipete/CodexBar) — macOS menu bar usage stats across AI coding tools.
-- [pi-cost-dashboard](https://github.com/mrexodia/pi-cost-dashboard) — Interactive web dashboard for API costs.
 - [pi-session-manager](https://github.com/Dwsy/pi-session-manager) — Browse, search, and resume pi sessions.
 - [pi-share-hf](https://github.com/badlogic/pi-share-hf) — Collect, review, and upload redacted session files to a Hugging Face dataset.
 - [pi-sub](https://github.com/marckrenn/pi-sub) — Usage-tracking extensions with a shared core and footer widget.
@@ -252,7 +250,6 @@ Cross-agent tools with explicit pi support.
 - [bitrouter](https://github.com/bitrouter/bitrouter) — Model router that continuously improves agentic workflows across harnesses.
 - [bug-hunter](https://github.com/codexstar69/bug-hunter) — Adversarial multi-agent bug hunter with auto-fix, pi among supported agents.
 - [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) — Visible multi-agent CLI workspace mixing pi with Codex, Claude, Gemini, and more.
-- [codemap](https://github.com/kcosr/codemap) — Compact, token-aware codebase maps for LLMs and coding agents.
 - [gob](https://github.com/juanibiapina/gob) — Process manager for AI agents with background jobs and a TUI.
 - [hcom](https://github.com/aannoo/hcom) — Let agents message, watch, and spawn each other across terminals.
 - [JustSessions](https://github.com/yangzichao/JustSessions) — Native Mac workspace to browse, search, and resume pi, Claude Code, Codex, and other coding-agent sessions in their original CLIs.
