@@ -61,7 +61,9 @@ The official project and its immediate family.
 
 ## Distros, Forks & Things Built on π
 
+- [mu](https://github.com/qybaihe/mu) — pi-based agent where a small judge model makes routine calls at 30+ decision points, logged to a local ledger.
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) — The heavyweight distro: hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more.
+- [Orbi](https://github.com/orbi-build/orbi) — Self-hosted issue-to-release loop: pi implements labeled GitHub issues, a separate pi session reviews, then it merges and tags.
 - [pi-rs](https://github.com/jshachm/pi-rs) — Lightweight Rust reimplementation of pi.
 - [pix-mono](https://github.com/xynogen/pix-mono) — Pix, a distro of the pi coding agent.
 - [rho](https://github.com/mikeyobrien/rho) — An always-on personal agent built on pi: remembers across sessions and checks in on its own.
@@ -73,7 +75,9 @@ The official project and its immediate family.
 - [oh-my-singularity](https://github.com/DeprecatedLuke/oh-my-singularity) — Task-based orchestration TUI for highly parallel agentic development.
 - [omp-cache-control](https://github.com/ubranch/omp-cache-control) — Prompt-cache visibility and guarded, paid idle refreshes for Oh My Pi.
 - [omp-deck](https://github.com/mcbarlowe/omp-deck) — Cockpit web UI: multi-session chat, kanban, cron routines, Telegram bridge.
+- [omp-desktop](https://github.com/Omnividente/omp-desktop) — Independent Windows/Linux workspace for oh-my-pi with project and session management, provider controls, and native PTY terminals.
 - [omp-you-should-know](https://github.com/ubranch/omp-you-should-know) — Contextual heads-up cards from a side model in the Oh My Pi terminal.
+- [PinkCollab](https://github.com/3xian/PinkCollab) — Native Android client for Oh My Pi (OMP): start coding sessions, follow live progress, and steer them from your phone.
 - [t4-code](https://github.com/LycaonLLC/t4-code) — Open-source desktop app for oh-my-pi.
 
 ## Frontends
@@ -81,6 +85,7 @@ The official project and its immediate family.
 Web, desktop, mobile, and editor faces for the same agent.
 
 - [agent-desktop](https://github.com/BaLaurent/agent-desktop) — Desktop application with native UI.
+- [pi-chamber](https://github.com/WillianQ/pi-chamber) — Remote browser control room: concurrent sessions, files, and real terminals; another device takes over the live session with replay.
 - [pi-coding-agent (Emacs)](https://github.com/dnouri/pi-coding-agent) — Emacs frontend, because of course there's an Emacs frontend.
 - [pi-desktop](https://github.com/gustavonline/pi-desktop) — Native desktop shell (Tauri + Lit), extension-first and multi-session aware.
 - [pi-gui](https://github.com/minghinmatthewlam/pi-gui) — Electron GUI app for the pi runtime.
@@ -125,6 +130,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 - [pi-subagents](https://github.com/nicobailon/pi-subagents) — Async subagent delegation with truncation, artifacts, and session sharing.
 - [roach-pi](https://github.com/tmdgusya/roach-pi) — Strict engineering discipline and multi-agent orchestration.
 - [task-factory](https://github.com/patleeman/task-factory) — Queue-first work orchestrator with planning, execution skills, and a web UI.
+- [worksplice](https://github.com/whutlichao/worksplice) — Local workspace for persistent pi sessions, with shared channels, freshness-checked writes, and independent task review.
 
 ## Context, Memory & Compaction
 
@@ -142,8 +148,10 @@ Multi-extension collections; many of the best single ideas live inside these.
 
 ## UI & Interaction
 
+- [better-pi-voice](https://github.com/sfgartland/better-pi-voice) — Streaming voice input (Deepgram or local Parakeet) biased with your repo's vocabulary.
 - [pi-annotate](https://github.com/nicobailon/pi-annotate) — Visual feedback from browser to agent: click elements, add comments, fix code.
 - [pi-canvas](https://github.com/jyaunches/pi-canvas) — Interactive TUI canvases (calendar, document, flights) rendered inline.
+- [pi-code-render](https://github.com/chengyayu/pi-code-render) — Renders fenced code blocks as theme-colored cards with a one-click `[COPY]` button and a click-to-toggle raw-text view.
 - [pi-design-deck](https://github.com/nicobailon/pi-design-deck) — Present multi-slide design options with high-fidelity previews.
 - [pi-interview-tool](https://github.com/nicobailon/pi-interview-tool) — Interactive forms with keyboard navigation, themes, and image attachments.
 - [pi-powerline-footer](https://github.com/nicobailon/pi-powerline-footer) — Powerline status bar with git integration and token intelligence.
@@ -251,6 +259,7 @@ Cross-agent tools with explicit pi support.
 - [mco](https://github.com/mco-org/mco) — Run selected agents and models in parallel, compare raw answers.
 - [memorix](https://github.com/AVIDS2/memorix) — Cross-agent memory layer via MCP.
 - [opencode-power-pack](https://github.com/waybarrios/opencode-power-pack) — 45 rigorous skills for Codex, OpenCode, and pi.
+- [yylo](https://github.com/yylo-dev/yylo) — Command-line orchestrator for coding agents: Pi and Codex subagents, a dedicated branch/worktree per task, and typed task, validation, merge, and release-readiness boundaries.
 
 ## Lore
 
