@@ -93,6 +93,7 @@ Web, desktop, mobile, and editor faces for the same agent.
 - [pi-vscode](https://github.com/pithings/pi-vscode) — Minimal VS Code extension.
 - [pi-web](https://github.com/agegr/pi-web) — Web UI: session browsing, real-time chat, skill management, file preview.
 - [pi-web (jmfederico)](https://github.com/jmfederico/pi-web) — Web UI that keeps sessions alive in real workspaces.
+- [pi-webman](https://github.com/steelburn/pi-webman) — Local web cockpit for the running session: live transcript, token/context telemetry, model and tool switching, ⌘K command palette; zero runtime dependencies.
 - [piclaw](https://github.com/rcarmo/piclaw) — "pi coding agent in a technicolor web trenchcoat."
 - [pilish](https://github.com/dnouri/pilish) — Emacs frontend, because of course there's an Emacs frontend.
 
