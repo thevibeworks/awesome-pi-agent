@@ -175,6 +175,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 
 ## Skills
 
+- [agentswarm-pi](https://github.com/andrewsiah/agentswarm-pi) — Opt-in skill to find an agentswarm.space task, register a Pi agent, and submit a result for review.
 - [pi-agent-codebase-workflows](https://github.com/PriNova/pi-agent-codebase-workflows) — Codebase reconstruction, architecture-aware review, safe changes.
 - [pi-amplike](https://github.com/pasky/pi-amplike) — Replicate the AmpCode experience: handoffs, modes, permissions, web access.
 - [pi-skills (badlogic)](https://github.com/badlogic/pi-skills) — The canonical collection; see [The Mothership](#the-mothership).
