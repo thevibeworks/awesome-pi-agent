@@ -87,6 +87,7 @@ Web, desktop, mobile, and editor faces for the same agent.
 - [agent-desktop](https://github.com/BaLaurent/agent-desktop) — Desktop application with native UI.
 - [pi-chamber](https://github.com/WillianQ/pi-chamber) — Remote browser control room: concurrent sessions, files, and real terminals; another device takes over the live session with replay.
 - [pi-desktop](https://github.com/gustavonline/pi-desktop) — Native desktop shell (Tauri + Lit), extension-first and multi-session aware.
+- [pi-gpui](https://github.com/bytesbay/pi-gpui) — Native desktop app in Rust and GPUI (no Electron), macOS for now: one pi process per session, session tree, inline extension questions, plugins in any language; `/gpui` moves a terminal session into it.
 - [pi-gui](https://github.com/minghinmatthewlam/pi-gui) — Electron GUI app for the pi runtime.
 - [pi-mobile](https://github.com/ayagmar/pi-mobile) — Android client with session management over Tailscale.
 - [pi-remote-web-ui](https://github.com/VVander/pi-remote-web-ui) — Minimal web GUI bound to localhost, reached over an SSH tunnel.
