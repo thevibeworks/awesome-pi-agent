@@ -61,6 +61,7 @@ The official project and its immediate family.
 
 ## Distros, Forks & Things Built on π
 
+- [Elflodge](https://github.com/elflodge/elflodge) — Run Pi agents unattended and in parallel on your own machine through one job API, with individual tasks or batches and structured results.
 - [mu](https://github.com/qybaihe/mu) — pi-based agent where a small judge model makes routine calls at 30+ decision points, logged to a local ledger.
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) — The heavyweight distro: hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more.
 - [Orbi](https://github.com/orbi-build/orbi) — Self-hosted issue-to-release loop: pi implements labeled GitHub issues, a separate pi session reviews, then it merges and tags.
