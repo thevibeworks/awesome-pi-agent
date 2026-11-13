@@ -6,9 +6,9 @@
 [pi](https://github.com/earendil-works/pi) is a minimal, hackable, self-extensible
 coding agent by Mario Zechner ([@badlogic](https://github.com/badlogic)) and
 [Earendil Works](https://github.com/earendil-works). It began life as
-"the shitty coding agent" — [shittycodingagent.ai](https://shittycodingagent.ai)
-still redirects — and like its namesake constant, the ecosystem turned out to be
-irrational and never-ending. This list tries to keep up.
+"the shitty coding agent" (shittycodingagent.ai), and like its namesake
+constant, the ecosystem turned out to be irrational and never-ending. This
+list tries to keep up.
 
 Every link below was alive, unarchived, and pi-relevant when added.
 Entries are alphabetical within sections; π doesn't play favorites with its digits.
@@ -270,7 +270,7 @@ Cross-agent tools with explicit pi support.
 
 Every good project has history; pi's is better than most.
 
-- pi was originally **the shitty coding agent** — [shittycodingagent.ai](https://shittycodingagent.ai) still redirects to pi.dev. [shitty-extensions](https://github.com/hjanuschka/shitty-extensions) keeps the flame alive.
+- pi was originally **the shitty coding agent**, at shittycodingagent.ai; it now lives at [pi.dev](https://pi.dev). [shitty-extensions](https://github.com/hjanuschka/shitty-extensions) keeps the flame alive.
 - The code lived at `badlogic/pi-mono` before moving to [earendil-works/pi](https://github.com/earendil-works/pi); old links redirect, old habits die harder.
 - [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) was the first awesome list for pi. It retired in mid-2026 with the words "time to retire!" — this list picks up the torch. Respect.
 - [senpi](https://github.com/code-yeongyu/senpi)'s README apologizes to the author for forking. The author does not appear to mind.
