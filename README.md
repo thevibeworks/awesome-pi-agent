@@ -247,7 +247,7 @@ Real-world configurations worth stealing from.
 
 Cross-agent tools with explicit pi support.
 
-- [agent-manager](https://github.com/wainmann/agent-manager) - Terminal app that runs pi and oh-my-pi sessions side by side with Claude Code, Codex and other coding CLIs, each in its own tmux session with live status and revive.
+- [agent-manager](https://github.com/wainmann/agent-manager) — Terminal app that runs pi and oh-my-pi sessions side by side with Claude Code, Codex and other coding CLIs, each in its own tmux session with live status and revive.
 - [bitrouter](https://github.com/bitrouter/bitrouter) — Model router that continuously improves agentic workflows across harnesses.
 - [bug-hunter](https://github.com/codexstar69/bug-hunter) — Adversarial multi-agent bug hunter with auto-fix, pi among supported agents.
 - [claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) — Visible multi-agent CLI workspace mixing pi with Codex, Claude, Gemini, and more.
