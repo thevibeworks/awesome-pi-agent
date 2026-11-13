@@ -76,6 +76,7 @@ The official project and its immediate family.
 - [omp-cache-control](https://github.com/ubranch/omp-cache-control) — Prompt-cache visibility and guarded, paid idle refreshes for Oh My Pi.
 - [omp-deck](https://github.com/mcbarlowe/omp-deck) — Cockpit web UI: multi-session chat, kanban, cron routines, Telegram bridge.
 - [omp-desktop](https://github.com/Omnividente/omp-desktop) — Independent Windows/Linux workspace for oh-my-pi with project and session management, provider controls, and native PTY terminals.
+- [omp-herdr-neighbors](https://github.com/ubranch/omp-herdr-neighbors) — Tells your OMP agent which other Herdr agents run beside it: hidden context with their tasks and last replies, refreshed only on change, plus same-file edit warnings.
 - [omp-you-should-know](https://github.com/ubranch/omp-you-should-know) — Contextual heads-up cards from a side model in the Oh My Pi terminal.
 - [PinkCollab](https://github.com/3xian/PinkCollab) — Native Android client for Oh My Pi (OMP): start coding sessions, follow live progress, and steer them from your phone.
 - [t4-code](https://github.com/LycaonLLC/t4-code) — Open-source desktop app for oh-my-pi.
