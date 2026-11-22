@@ -146,6 +146,7 @@ Multi-extension collections; many of the best single ideas live inside these.
 ## Workflow & Autonomy
 
 - [pi-autoresearch](https://github.com/nicobailon/pi-autoresearch) — Autonomous experiment loop.
+- [pi-goal](https://github.com/mrq1911/pi-goal) — /goal that keeps pi working until a reviewer, trusting only evidence in the conversation, finds the objective met; adds nothing to the system prompt or tools.
 - [pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell) — The agent drives interactive CLIs in an observable PTY overlay; you can take over anytime.
 - [pi-model-switch](https://github.com/nicobailon/pi-model-switch) — Let the agent switch models on its own.
 - [pi-prompt-template-model](https://github.com/nicobailon/pi-prompt-template-model) — Model/skill/thinking frontmatter in prompt templates with auto-restore.
