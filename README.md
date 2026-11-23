@@ -88,6 +88,7 @@ The official project and its immediate family.
 Web, desktop, mobile, and editor faces for the same agent.
 
 - [agent-desktop](https://github.com/BaLaurent/agent-desktop) — Desktop application with native UI.
+- [Pi Bot](https://github.com/w01fb0ss/PiBot) — Local-first desktop app for coordinating named Pi agents with group chats, task handoffs, and approval gates.
 - [pi-chamber](https://github.com/WillianQ/pi-chamber) — Remote browser control room: concurrent sessions, files, and real terminals; another device takes over the live session with replay.
 - [pi-desktop](https://github.com/gustavonline/pi-desktop) — Native desktop shell (Tauri + Lit), extension-first and multi-session aware.
 - [pi-gpui](https://github.com/bytesbay/pi-gpui) — Native desktop app in Rust and GPUI (no Electron) for macOS and Linux: one pi process per session, session tree, inline extension questions, plugins in any language; `/gpui` moves a terminal session into it.
