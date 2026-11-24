@@ -58,6 +58,7 @@ The official project and its immediate family.
 - [pi-tutorial](https://github.com/earendil-works/pi-tutorial) — Experimental interactive tutorial mode for pi.
 - [mariozechner.at](https://mariozechner.at) — The author's blog; design rationale straight from the source.
 - [mpr: pi coding agent notes](https://github.com/crossjam/mpr/blob/main/content/pi_coding_agent.md) — Community writeup and context.
+- [Best Pi extensions for unattended runs](https://orbi.build/blog/best-pi-extensions/?ref=dir-awesome-pi-agent) — 20 extensions tested with no terminal or desktop session: which work for MCP, web search and subagents, and which change your config.
 
 ## Distros, Forks & Things Built on π
 
